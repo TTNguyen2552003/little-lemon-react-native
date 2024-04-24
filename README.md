@@ -28,10 +28,14 @@ cd 'little-lemon-react-native'
 ```sh
 npx install-expo-modules@latest
 ```
+```sh
+npx expo install --fix
+```
+
 
 `Install the package`
 ```sh
-npm install expo
+npx expo install
 ```
 4. Run the development server:
 ```bash
