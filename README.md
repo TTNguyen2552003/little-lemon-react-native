@@ -31,7 +31,7 @@ npm install expo
 
 `update to the latest package (optional)`
 ```sh
-npm install-expo-modules@latest
+npm install expo@latest
 ```
 ```sh
 npx expo install --fix
