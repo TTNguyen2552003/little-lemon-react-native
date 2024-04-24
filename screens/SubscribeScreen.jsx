@@ -158,6 +158,7 @@ const SubscribeScreen = () => {
                             }
                         )
                     }}
+                    disabled={!clickable}
                 >
                     <Text style={styles.ctaLabel}>Subscribe</Text>
                 </Pressable>

@@ -8,6 +8,7 @@ const WelcomeScreen = ({ navigation }) => {
     const [fontsLoaded2, fontError2] = useFonts({
         "Inter-Regular": require("../assets/fonts/Inter-Regular.ttf")
     })
+
     const { fontScale } = useWindowDimensions()
     const styles = StyleSheet.create({
         welcome: {
