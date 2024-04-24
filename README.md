@@ -8,7 +8,7 @@ This section explains how to set up and run the project on your device.
 
 **Prerequisites:**
 * Node.js and npm installed. Download at [Nodejs official website](https://nodejs.org/en/download)
-* You can donwload Expo Go app on [App Store](https://apps.apple.com/vn/app/expo-go/id982107779?l=vi) or [Google Play](https://play.google.com/store/apps/details?id=host.exp.exponent&hl=en&gl=US&pli=1)
+* You can download Expo Go app on [App Store](https://apps.apple.com/vn/app/expo-go/id982107779?l=vi) or [Google Play](https://play.google.com/store/apps/details?id=host.exp.exponent&hl=en&gl=US&pli=1)
 
 **Steps:**
 
@@ -31,7 +31,7 @@ npm install expo
 
 `update to the latest package (optional)`
 ```sh
-npx install-expo-modules@latest
+npm install-expo-modules@latest
 ```
 ```sh
 npx expo install --fix
