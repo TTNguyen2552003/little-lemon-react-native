@@ -35,7 +35,7 @@ npx expo install --fix
 
 `Install the package`
 ```sh
-npx expo install
+npm expo install
 ```
 4. Run the development server:
 ```bash
